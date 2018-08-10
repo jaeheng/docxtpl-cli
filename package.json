@@ -1,0 +1,16 @@
+{
+  "name": "docxtpl-cli",
+  "version": "0.0.1",
+  "description": "docxtemplater cli",
+  "main": "index.js",
+  "author": "jaeheng",
+  "license": "MIT",
+  "dependencies": {
+    "docxtemplater": "^3.8.2",
+    "jszip": "^2.6.1",
+    "jszip-utils": "0.0.2"
+  },
+  "bin": {
+    "docxtpl": "./index.js"
+  }
+}
